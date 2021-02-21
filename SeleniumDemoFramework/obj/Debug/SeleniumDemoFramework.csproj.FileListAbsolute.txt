@@ -32,3 +32,5 @@ D:\_projects\_stage\SeleniumDemo\SeleniumDemo\SeleniumDemoFramework\obj\Debug\Se
 D:\_projects\_stage\SeleniumDemo\SeleniumDemo\SeleniumDemoFramework\bin\Debug\Dapper.dll
 D:\_projects\_stage\SeleniumDemo\SeleniumDemo\SeleniumDemoFramework\bin\Debug\Dapper.xml
 D:\_projects\_stage\SeleniumDemo\SeleniumDemo\SeleniumDemoFramework\obj\Debug\SeleniumDemoFramework.csproj.CoreCompileInputs.cache
+C:\Users\glenn\Source\Repos\SeleniumTestAutomationFramework\SeleniumDemoFramework\obj\Debug\SeleniumDemoFramework.csprojAssemblyReference.cache
+C:\Users\glenn\Source\Repos\SeleniumTestAutomationFramework\SeleniumDemoFramework\obj\Debug\SeleniumDemoFramework.csproj.CoreCompileInputs.cache
